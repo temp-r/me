@@ -1,4 +1,4 @@
-/* locomotive-scroll v3.0.4 | MIT License | https://github.com/locomotivemtl/locomotive-scroll */
+/* easy :) */
 (function () {
   'use strict';
 
